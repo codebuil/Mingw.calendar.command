@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-//https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Zeller
+
 int main()
 {
     // Obtém a data atual
